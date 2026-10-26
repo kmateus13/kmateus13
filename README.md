@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=26&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9ACB34&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Klisman+Mateus;Estudante+de+ciências+da+computação:%29)](https://git.io/typing-svg)</br></br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9ACB34&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Klisman+Mateus;Analise+e+Desenvolvimento+de+Sistemas:%29)](https://git.io/typing-svg)</br></br></br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kmateus13&show_icons=true&count_private=true&hide_border=true&title_color=9ACB34&icon_color=9ACB34&text_color=c9d1d9&bg_color=0d1117" alt="KLISMAN MATEUS github stats" /> 
